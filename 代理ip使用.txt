@@ -1,0 +1,4 @@
+1.运行C:\redis\64bit\redis-server.exe应用
+2.打开ProxyPool-master\run\文件夹,运行main.py文件
+3.一段时间后运行代理ip获取程序
+
